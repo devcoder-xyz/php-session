@@ -4,6 +4,7 @@
 
 The `SessionStorage` is a PHP library that provides a simple implementation of the `SessionStorageInterface`. It allows developers to work with PHP sessions in a convenient way, providing methods to get, set, check, and remove session data. This library requires PHP version 7.4 or higher.
 
+[![Latest Stable Version](http://poser.pugx.org/devcoder-xyz/php-session/v)](https://packagist.org/packages/devcoder-xyz/php-session) [![Total Downloads](http://poser.pugx.org/devcoder-xyz/php-session/downloads)](https://packagist.org/packages/devcoder-xyz/php-session) [![Latest Unstable Version](http://poser.pugx.org/devcoder-xyz/php-session/v/unstable)](https://packagist.org/packages/devcoder-xyz/php-session) [![License](http://poser.pugx.org/devcoder-xyz/php-session/license)](https://packagist.org/packages/devcoder-xyz/php-session) [![PHP Version Require](http://poser.pugx.org/devcoder-xyz/php-session/require/php)](https://packagist.org/packages/devcoder-xyz/php-session)
 ## Installation
 
 Use [Composer](https://getcomposer.org/)
